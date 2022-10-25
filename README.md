@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/arifluqmannn/arifluqmannn/blob/main/Pink%20Modern%20Marketing%20Email%20Signature.png" alt="banner that says Sarah hart Landolt -        software developer, artist, designer" width="600">
+  <img src="https://github.com/arifluqmannn/arifluqmannn/blob/main/Black%20Ivory%20Dark%20Classic%20Minimal%20Architecture%20%20Interior%20Design%20Portfolio%20Website.png" alt="banner that says Sarah hart Landolt -        software developer, artist, designer" width="600">
 </div>
 
 <div id="badges" align="center">
@@ -9,10 +9,6 @@
   <a href="https://twitter.com/ariflqmn">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif" width="350"/>
 </div>
 
 ### Hi there, I'm Arif 👋
