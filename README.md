@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/arifluqmannn/arifluqmannn/blob/main/Black%20Ivory%20Dark%20Classic%20Minimal%20Architecture%20%20Interior%20Design%20Portfolio%20Website.png" alt="banner that says Sarah hart Landolt -        software developer, artist, designer" width="600">
+  <img src="https://github.com/arifluqmannn/arifluqmannn/blob/main/Black%20Ivory%20Dark%20Classic%20Minimal%20Architecture%20%20Interior%20Design%20Portfolio%20Website.png" alt="banner that says Sarah hart Landolt -        software developer, artist, designer" width="900">
 </div>
 
 <div id="badges" align="center">
