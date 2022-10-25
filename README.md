@@ -1,4 +1,13 @@
-### Hi there 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SAAMcPRfQpgyI/giphy.gif" width="100"/>
+</div>
+
+
+### Hi there, I'm Arif 👋
+
+### I am a self-taught data analyst and still teaching myself to master all that needs to know about data analytics.
+
 
 <!--
 **arifluqmannn/arifluqmannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
