@@ -1,7 +1,5 @@
-<img src="https://github.com/arifluqmannn/arifluqmannn/blob/main/Pink%20Modern%20Marketing%20Email%20Signature.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer" align="center">
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif" width="350"/>
+  <img src="https://github.com/arifluqmannn/arifluqmannn/blob/main/Pink%20Modern%20Marketing%20Email%20Signature.png" alt="banner that says Sarah hart Landolt -        software developer, artist, designer" width="600">
 </div>
 
 <div id="badges" align="center">
@@ -13,8 +11,9 @@
   </a>
 </div>
 
-
-https://github.com/arifluqmannn/arifluqmannn/blob/main/Pink%20Modern%20Marketing%20Email%20Signature.png
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/tlGD7PDy1w8fK/giphy.gif" width="350"/>
+</div>
 
 ### Hi there, I'm Arif 👋
 
