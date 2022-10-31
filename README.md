@@ -15,7 +15,7 @@
 - ❓ Next certification on the list: IBM Data Science  
   
 
-- ⚡ Fun fact: Microsoft Excel > Google Sheet  
+- ⚡ Fun fact: Google Sheet > Microsoft Excel 
   
 
 <br/>  
